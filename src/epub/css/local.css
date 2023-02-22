@@ -3,8 +3,7 @@
 
 /* begin epigraph boilerplate CSS */
 [epub|type~="epigraph"]{
-	font-style: italic;
-	/* ... */
+	font-style: italic; /* ... */
 }
 
 [epub|type~="epigraph"] i{
@@ -12,9 +11,9 @@
 }
 
 [epub|type~="epigraph"] cite{
-	margin-top: 1em;
 	font-style: normal;
 	font-variant: small-caps;
+	margin-top: 1em;
 }
 
 [epub|type~="epigraph"] cite i{
