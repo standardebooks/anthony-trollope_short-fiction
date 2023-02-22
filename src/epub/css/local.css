@@ -20,6 +20,25 @@
 [epub|type~="epigraph"] cite i{
 	font-style: italic;
 }
+
+/* Epigraphs in section headers */
+section > header [epub|type~="epigraph"]{
+	display: inline-block;
+	margin: auto;
+	max-width: 80%;
+	text-align: initial;
+}
+
+section > header [epub|type~="epigraph"] + *{
+	margin-top: 3em;
+}
+
+@supports(display: table){
+	section > header [epub|type~="epigraph"]{
+		display: table;
+	}
+}
+/* End epigraphs in section headers */
 /* end epigraph CSS */
 
 /* begin letter boilerplate CSS */
