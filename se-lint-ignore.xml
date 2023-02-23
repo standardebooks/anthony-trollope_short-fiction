@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="the-panjandrum.xhtml">
+		<ignore>
+			<code>t-007</code>
+			<reason>False positives: Possessive "s" belongs to magazine names.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
