@@ -29,6 +29,10 @@ section > header [epub|type~="epigraph"]{
 /* end epigraph CSS */
 
 /* begin letter boilerplate CSS */
+[epub|type~="z3998:letter"] header{
+	text-align: right;
+}
+
 header > [epub|type~="z3998:salutation"]{
 	text-align: initial;
 }
