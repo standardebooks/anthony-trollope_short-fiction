@@ -38,26 +38,45 @@
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-GB</dc:language>
+		<!-- Tales of All Countries, volumes 1 and 2 -->
 		<dc:source>https://www.gutenberg.org/ebooks/55147</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/36270918.80858.emory.edu</dc:source>
+		<!-- Lotta Schmidt, and Other Stories -->
+		<dc:source>https://www.gutenberg.org/ebooks/54424</dc:source>
+		<dc:source>https://archive.org/details/lottschmidtandot00troluoft</dc:source>
+		<!-- Mary Gresley, and An Editor's Tales -->
+		<dc:source>https://www.gutenberg.org/ebooks/54783</dc:source>
+		<dc:source>https://archive.org/details/marygresleyanded00troluoft</dc:source>
+		<!-- Why Frau Frohmann Raised Her Prices, and Other Stories -->
+		<dc:source>https://www.gutenberg.org/ebooks/55212</dc:source>
+		<dc:source>https://archive.org/details/whyfraufrohmann00trolgoog</dc:source>
+		<!-- “The Gentle Euphemia” (own transcription) -->
+		<dc:source>https://books.google.com/books?id=0LVNAQAAMAAJ</dc:source>
+		<!-- “Christmas at Kirkby Cottage” (own transcription) -->
+		<dc:source>https://catalog.hathitrust.org/Record/100781909</dc:source>
+		<!-- “The Two Heroines of Plumplington” (own transcription) -->
+		<!-- direct link to volume: https://hdl.handle.net/2027/osu.32435051130540 -->
+		<dc:source>https://catalog.hathitrust.org/Record/011919792</dc:source>
+		<meta property="se:production-notes">Three stories could not be included in this collection: “Never, Never — Never, Never” (1875); “Catherine Carmichael” (1878); and “Not If I Know It” (1882).
+		
+		Three other stories (“The Gentle Euphemia,” “Christmas at Kirkby Cottage,” and  “The Two Heroines of Plumplington”) were transcribed for this Standard Ebooks edition; thus there is no transcription dc:source element for these, as the ebook itself is the source transcription.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Anthony_Trollope_bibliography#Short_stories</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anthony-trollope_short-fiction</meta>
 		<dc:creator id="author">Anthony Trollope</dc:creator>
 		<meta property="file-as" refines="#author">Trollope, Anthony</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Anthony_Trollope</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78089077</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="se:role" refines="#author" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Chuck Greif</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Greif, Chuck</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Online Distributed Proofreading Team, The</meta>
@@ -71,6 +90,7 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 	</metadata>
 	<manifest>

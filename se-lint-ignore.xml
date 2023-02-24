@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="content.opf">
 	<file path="the-panjandrum.xhtml">
 		<ignore>
 			<code>t-007</code>
