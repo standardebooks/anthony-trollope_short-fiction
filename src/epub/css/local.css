@@ -94,3 +94,8 @@ p span.i3{
 	text-indent: -1em;
 }
 /* end letter CSS */
+
+/* the rest */
+q{
+	font-style: italic;
+}
