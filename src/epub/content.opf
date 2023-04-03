@@ -34,9 +34,13 @@
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
 		<meta property="se:is-a-collection">true</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A collection of Anthony Trollope’s short stories, ordered by date of first publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Most of the many novels by &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Anthony Trollope&lt;/a&gt; share a common feature: they are long books. Trollope was an energetic and productive writer in an energetic and productive age, and that in addition to his regular job as a highly placed civil servant in the postal service. The appearance of his first published short story coincided with his rise to prominence as a novelist with the popularity of &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/anthony-trollope/framley-parsonage"&gt;Framley Parsonage&lt;/a&gt;&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;In spite of this prodigious output, Trollope could struggle with the short story form. He was more at home in his novels, living in his imagination with his characters who were then patiently brought to life on the page. Still, as one of his modern editors notes, only rarely in his short stories does he seem to be “deliberately cramping his hand to work on a smaller canvas.”&lt;/p&gt;
+			&lt;p&gt;In his autobiography, Trollope identifies a moment of encouragement to produce short stories. It came in a letter from &lt;a href="https://standardebooks.org/ebooks/william-makepeace-thackeray"&gt;William Makepeace Thackeray&lt;/a&gt; who was at the time editor of the &lt;i&gt;Cornhill&lt;/i&gt; magazine. “You must have tossed a good deal about the world,” Thackeray wrote to Trollope, “and have countless sketches in your memory and your portfolio. Please to think if you can furbish up any of these besides a novel. When events occur, and you have a good lively tale, bear us in mind.” In fact, Trollope travelled the world negotiating postal treaties, and he used these exotic locations and odd experiences as the source of many of his shorter tales.&lt;/p&gt;
+			&lt;p&gt;The range in this collection is remarkable. Some of the stories bear on current events, from the American Civil War, to inflation with the growing establishment of the gold standard. Some stories are bawdy, even burlesque in their humor; some dark with pathos and tragedy. A good number follow the trials of courtship, a theme familiar from his larger works. His “editor’s tales” have an autobiographical cast, depicting the travails of the aspiring writer. And among the very last of the short stories he wrote was one final return to the setting of Barsetshire, long since left behind after completing &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/anthony-trollope/the-last-chronicle-of-barset"&gt;The Last Chronicle of Barset&lt;/a&gt;&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;In all, Trollope published 43 short stories, of which all but six appeared also in various anthologies during his lifetime. Of those six, three are not available in the public domain. The remaining 40 are included in this collection, ordered by date of their first publication.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!-- Tales of All Countries, volumes 1 and 2 -->
@@ -56,8 +60,7 @@
 		<!-- “Christmas at Kirkby Cottage” (own transcription) -->
 		<dc:source>https://catalog.hathitrust.org/Record/100781909</dc:source>
 		<!-- “The Two Heroines of Plumplington” (own transcription) -->
-		<!-- direct link to volume: https://hdl.handle.net/2027/osu.32435051130540 -->
-		<dc:source>https://catalog.hathitrust.org/Record/011919792</dc:source>
+		<dc:source>https://www.google.co.uk/books?id=sTQFAAAAQAAJ</dc:source>
 		<meta property="se:production-notes">Three stories could not be included in this collection: “Never, Never — Never, Never” (1875); “Catherine Carmichael” (1878); and “Not If I Know It” (1882).
 		
 		Three other stories (“The Gentle Euphemia,” “Christmas at Kirkby Cottage,” and  “The Two Heroines of Plumplington”) were transcribed for this Standard Ebooks edition; thus there is no transcription dc:source element for these, as the ebook itself is the source transcription.</meta>
@@ -71,10 +74,10 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78089077</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">ann</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Giuseppe De Nittis</dc:contributor>
+		<meta property="file-as" refines="#artist">De Nittis, Giuseppe</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Giuseppe_De_Nittis</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79144583</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Chuck Greif</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Greif, Chuck</meta>
