@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anthony-trollope/short-fiction</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-04-10T21:51:57Z</dc:date>
+		<meta property="dcterms:modified">2023-04-10T21:51:57Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -40,7 +40,7 @@
 			&lt;p&gt;In spite of this prodigious output, Trollope could struggle with the short story form. He was more at home in his novels, living in his imagination with his characters who were then patiently brought to life on the page. Still, as one of his modern editors notes, only rarely in his short stories does he seem to be “deliberately cramping his hand to work on a smaller canvas.”&lt;/p&gt;
 			&lt;p&gt;In his autobiography, Trollope identifies a moment of encouragement to produce short stories. It came in a letter from &lt;a href="https://standardebooks.org/ebooks/william-makepeace-thackeray"&gt;William Makepeace Thackeray&lt;/a&gt; who was at the time editor of the &lt;i&gt;Cornhill&lt;/i&gt; magazine. “You must have tossed a good deal about the world,” Thackeray wrote to Trollope, “and have countless sketches in your memory and your portfolio. Please to think if you can furbish up any of these besides a novel. When events occur, and you have a good lively tale, bear us in mind.” In fact, Trollope travelled the world negotiating postal treaties, and he used these exotic locations and odd experiences as the source of many of his shorter tales.&lt;/p&gt;
 			&lt;p&gt;The range in this collection is remarkable. Some of the stories bear on current events, from the American Civil War, to inflation with the growing establishment of the gold standard. Some stories are bawdy, even burlesque in their humor; some dark with pathos and tragedy. A good number follow the trials of courtship, a theme familiar from his larger works. His “editor’s tales” have an autobiographical cast, depicting the travails of the aspiring writer. And among the very last of the short stories he wrote was one final return to the setting of Barsetshire, long since left behind after completing &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/anthony-trollope/the-last-chronicle-of-barset"&gt;The Last Chronicle of Barset&lt;/a&gt;&lt;/i&gt;.&lt;/p&gt;
-			&lt;p&gt;In all, Trollope published 43 short stories, of which all but six appeared also in various anthologies during his lifetime. Of those six, three are not available in the public domain. The remaining 40 are included in this collection, ordered by date of their first publication.&lt;/p&gt;
+			&lt;p&gt;In all, Trollope published forty-three short stories, of which all but six appeared also in various anthologies during his lifetime. Of those six, three are not available in the public domain. The remaining forty are included in this collection, ordered by date of their first publication.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!-- Tales of All Countries, volumes 1 and 2 -->
@@ -61,11 +61,11 @@
 		<dc:source>https://catalog.hathitrust.org/Record/100781909</dc:source>
 		<!-- “The Two Heroines of Plumplington” (own transcription) -->
 		<dc:source>https://www.google.co.uk/books?id=sTQFAAAAQAAJ</dc:source>
-		<meta property="se:production-notes">Three stories could not be included in this collection: “Never, Never — Never, Never” (1875); “Catherine Carmichael” (1878); and “Not If I Know It” (1882).
+		<meta property="se:production-notes">Three stories could not be included in this collection: “Never, Never — Never, Never” (1875); “Catherine Carmichael” (1878); and “Not If I Know It” (1882). Public domain scans/transcriptions don't exist.
 
 		Three other stories (“The Gentle Euphemia,” “Christmas at Kirkby Cottage,” and “The Two Heroines of Plumplington”) were transcribed for this Standard Ebooks edition; thus there is no transcription dc:source element for these, as the ebook itself is the source transcription.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">491053</meta>
+		<meta property="se:reading-ease.flesch">78.89</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Anthony_Trollope_bibliography#Short_stories</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anthony-trollope_short-fiction</meta>
 		<dc:creator id="author">Anthony Trollope</dc:creator>
@@ -96,6 +96,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">B. Timothy Keith</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Keith, B. Timothy</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://astart.ca</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
