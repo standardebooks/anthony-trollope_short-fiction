@@ -64,7 +64,7 @@
 		<meta property="se:production-notes">Three stories could not be included in this collection: “Never, Never — Never, Never” (1875); “Catherine Carmichael” (1878); and “Not If I Know It” (1882). Public domain scans/transcriptions don't exist.
 
 		Three other stories (“The Gentle Euphemia,” “Christmas at Kirkby Cottage,” and “The Two Heroines of Plumplington”) were transcribed for this Standard Ebooks edition; thus there is no transcription dc:source element for these, as the ebook itself is the source transcription.</meta>
-		<meta property="se:word-count">491052</meta>
+		<meta property="se:word-count">491054</meta>
 		<meta property="se:reading-ease.flesch">78.89</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Anthony_Trollope_bibliography#Short_stories</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anthony-trollope_short-fiction</meta>
