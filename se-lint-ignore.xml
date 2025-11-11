@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="the-chateau-of-prince-polignac.xhtml">
+		<ignore>
+			<code>t-019</code>
+			<reason>Italics is also a quotation.</reason>
+		</ignore>
+	</file>
 	<file path="the-panjandrum.xhtml">
 		<ignore>
 			<code>t-007</code>
