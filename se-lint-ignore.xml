@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="never-never.xhtml">
+		<ignore>
+			<code>s-033</code>
+			<reason>This story only is en-US, having been published in Boston.</reason>
+		</ignore>
+	</file>
 	<file path="the-chateau-of-prince-polignac.xhtml">
 		<ignore>
 			<code>t-019</code>
