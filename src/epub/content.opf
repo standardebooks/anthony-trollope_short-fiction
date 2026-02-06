@@ -137,6 +137,7 @@
 		<item href="text/miss-sarah-jack-of-spanish-town-jamaica.xhtml" id="miss-sarah-jack-of-spanish-town-jamaica.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/mrs-brumby.xhtml" id="mrs-brumby.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/mrs-general-talboys.xhtml" id="mrs-general-talboys.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/never-never.xhtml" id="never-never.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/relics-of-general-chasse.xhtml" id="relics-of-general-chasse.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/returning-home.xhtml" id="returning-home.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-adventures-of-fred-pickering.xhtml" id="the-adventures-of-fred-pickering.xhtml" media-type="application/xhtml+xml"/>
@@ -200,6 +201,7 @@
 		<itemref idref="the-spotted-dog.xhtml"/>
 		<itemref idref="mrs-brumby.xhtml"/>
 		<itemref idref="christmas-day-at-kirkby-cottage.xhtml"/>
+		<itemref idref="never-never.xhtml"/>
 		<itemref idref="christmas-at-thompson-hall.xhtml"/>
 		<itemref idref="why-frau-frohmann-raised-her-prices.xhtml"/>
 		<itemref idref="the-telegraph-girl.xhtml"/>
