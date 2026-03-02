@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="never-never.xhtml">
-		<ignore>
-			<code>s-033</code>
+		<ignore code="s-033">
 			<reason>This story only is en-US, having been published in Boston.</reason>
 		</ignore>
 	</file>
 	<file path="the-chateau-of-prince-polignac.xhtml">
-		<ignore>
-			<code>t-019</code>
+		<ignore code="t-019">
 			<reason>Italics is also a quotation.</reason>
 		</ignore>
 	</file>
 	<file path="the-panjandrum.xhtml">
-		<ignore>
-			<code>t-007</code>
+		<ignore code="t-007">
 			<reason>False positives: Possessive "s" belongs to magazine names.</reason>
 		</ignore>
 	</file>
