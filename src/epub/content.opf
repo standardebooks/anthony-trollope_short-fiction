@@ -36,7 +36,7 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:abstract>A collection of Anthony Trollope’s short stories, ordered by date of first publication.</dc:abstract>
+		<meta property="schema:abstract">A collection of Anthony Trollope’s short stories, ordered by date of first publication.</meta>
 		<dc:description>
 			&lt;p&gt;Most of the many novels by &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Anthony Trollope&lt;/a&gt; share a common feature: they are long books. Trollope was an energetic and productive writer in an energetic and productive age, and that in addition to his regular job as a highly placed civil servant in the postal service. The appearance of his first published short story coincided with his rise to prominence as a novelist with the popularity of &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/anthony-trollope/framley-parsonage"&gt;Framley Parsonage&lt;/a&gt;&lt;/i&gt;.&lt;/p&gt;
 			&lt;p&gt;In spite of this prodigious output, Trollope could struggle with the short story form. He was more at home in his novels, living in his imagination with his characters who were then patiently brought to life on the page. Still, as one of his modern editors notes, only rarely in his short stories does he seem to be “deliberately cramping his hand to work on a smaller canvas.”&lt;/p&gt;
